@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://dardev.net/</loc><lastmod>2026-05-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://dardev.net/about</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dardev.net/services</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dardev.net/products</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dardev.net/products/workspace</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dardev.net/products/cde</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dardev.net/products/devops</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dardev.net/products/monitoring</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dardev.net/solutions</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dardev.net/solutions/dardevlab</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dardev.net/solutions/hesabi</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dardev.net/contact</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dardev.net/blog</loc><lastmod>2026-05-15</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dardev.net/blog/kubernetes-cilium-zero-trust-network-security-for-enterprises</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dardev.net/blog/hesabi-vs-swiver-best-invoicing-software-for-tunisia-2026</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dardev.net/blog/cloud-migration-checklist-10-steps-enterprises-miss</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dardev.net/blog/how-dardevlab-uses-ai-to-replace-human-tutors</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dardev.net/blog/project-based-learning-vs-video-courses-why-engineers-learn-faster-by-building</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dardev.net/blog/ttn-el-fatoora-complete-guide-for-tunisian-smes-2026</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dardev.net/blog/how-to-set-up-tej-withholding-tax-in-your-invoicing-software</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dardev.net/blog/jupyterhub-vs-local-why-data-teams-are-moving-to-cloud-environments</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dardev.net/blog/grafana-prometheus-loki-the-modern-observability-stack</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dardev.net/blog/why-tunisian-tech-companies-are-going-multi-cloud-in-2026</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>

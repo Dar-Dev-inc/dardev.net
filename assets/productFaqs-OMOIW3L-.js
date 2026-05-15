@@ -1,0 +1,1 @@
+const t={devops:["cloud","cilium","region"],workspace:["what","sso"],cde:["envs","residency"],monitoring:["stack","alerts"]};function c(o,s){return t[s].map(r=>({question:o(`productFaqs.${s}.${r}.q`),answer:o(`productFaqs.${s}.${r}.a`)}))}export{c as g};
