@@ -23,6 +23,8 @@
 
 - DarDevLab  AI-powered project-based engineering education: https://dardev.net/solutions/dardevlab
 - Hesabi  Tunisia-only invoicing, TTN El Fatoora, TEJ withholding: https://dardev.net/solutions/hesabi
+- EscaHire  AI-powered recruitment platform (screening, assessments, scheduling): https://dardev.net/solutions/escahire
+  Live product: https://escahire.usfbelhadj.com
 
 ## Services
 
