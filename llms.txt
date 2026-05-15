@@ -6,7 +6,7 @@
 
 - Name: DarDev Solutions
 - Website: https://dardev.net
-- Location: Tunis, Tunisia
+- Location: Bureau A, Immeuble Tamayouz, 1082 Centre Urbain Nord, Tunis, Tunisia (primary)
 - Contact: https://dardev.net/contact
 - Email: contact@dardev.net
 - LinkedIn: https://linkedin.com/company/dar-dev
