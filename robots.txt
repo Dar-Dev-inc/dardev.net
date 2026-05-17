@@ -2,6 +2,6 @@ User-agent: *
 Allow: /
 
 # Answer-engine / LLM discovery (see https://llmstxt.org/)
-# https://dardev.net/llms.txt
+LLMs-txt: https://dardev.net/llms.txt
 
 Sitemap: https://dardev.net/sitemap.xml
