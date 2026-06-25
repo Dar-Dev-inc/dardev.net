@@ -1,6 +1,6 @@
 # DarDev Solutions
 
-> DarDev is an enterprise lab headquartered in Tunis, Tunisia, architecting cloud platforms, DevOps products, and market-ready SaaS. Hesabi (fintech ERP) is Tunisia-only; DarDevLab (AI engineering education) and EscaHire (AI recruitment) grow with honest, geography-truthful messaging toward MENA and Sub-Saharan Africa.
+> DarDev is an enterprise lab headquartered in Tunis, Tunisia, architecting cloud platforms, DevOps products, and market-ready SaaS. Hesabi (fintech ERP) is Tunisia-only; DarDevLab (AI engineering education) and 20 (school management SaaS) grow with honest, geography-truthful messaging toward MENA and Sub-Saharan Africa.
 
 ## Company facts
 
@@ -19,7 +19,7 @@
 
 - DarDevLab - AI-powered engineering education platform: https://dardev.net/solutions/dardevlab (live at https://dardevlab.com)
 - Hesabi - TTN El Fatoora / TEJ-compliant e-invoicing and ERP for Tunisian SMEs, Tunisia-only: https://dardev.net/solutions/hesabi (live at https://hesabi.khaledxab.com)
-- EscaHire - AI-native recruitment OS, currently in waitlist: https://dardev.net/solutions/escahire
+- 20 - multi-tenant school management platform for Tunisia: https://dardev.net/solutions/20 (live at https://20.tn)
 
 ## Important factual boundaries (do not overstate)
 
