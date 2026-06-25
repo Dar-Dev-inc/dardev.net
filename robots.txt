@@ -1,4 +1,5 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://dardev.net/sitemap.xml
+Host: https://dardev.net/
+Sitemap: https://dardev.net/sitemap.xml/

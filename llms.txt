@@ -1,6 +1,6 @@
 # DarDev Solutions
 
-> DarDev is an enterprise lab headquartered in Tunis, Tunisia, architecting cloud platforms, DevOps products, and market-ready SaaS. Hesabi (fintech ERP) is Tunisia-only; DarDevLab (AI engineering education) and 20 (school management EMIS) serve Tunisian institutions with honest, geography-truthful messaging toward MENA and Sub-Saharan Africa.
+> DarDev is an enterprise lab headquartered in Tunis, Tunisia, architecting cloud platforms, DevOps products, and market-ready SaaS. Hesabi (fintech ERP) is Tunisia-only; DarDevLab (AI engineering education) and EscaHire (AI recruitment) grow with honest, geography-truthful messaging toward MENA and Sub-Saharan Africa.
 
 ## Company facts
 
@@ -10,21 +10,20 @@
 
 ## Platforms (infrastructure primitives)
 
-- Workspace zero-trust IAM and SSO layer: https://dardev.net/products/workspace
-- DarDevCDE cloud development environments: https://dardev.net/products/cde
-- DarDevOps Kubernetes and multi-cloud control plane: https://dardev.net/products/devops
-- Monitoring observability stack (Prometheus, Grafana, Loki): https://dardev.net/products/monitoring
+- Workspace - zero-trust IAM and SSO layer: https://dardev.net/products/workspace
+- DarDevCDE - cloud development environments: https://dardev.net/products/cde
+- DarDevOps - Kubernetes and multi-cloud control plane: https://dardev.net/products/devops
+- Monitoring - observability stack (Prometheus, Grafana, Loki): https://dardev.net/products/monitoring
 
 ## Solutions (market-facing SaaS)
 
-- DarDevLab AI-powered engineering education platform: https://dardev.net/solutions/dardevlab (live at https://dardevlab.com)
-- Hesabi TTN El Fatoora / TEJ-compliant e-invoicing and ERP for Tunisian SMEs, Tunisia-only: https://dardev.net/solutions/hesabi (live at https://hesabi.khaledxab.com)
-- 20 Free school management EMIS platform for Tunisian institutions: https://dardev.net/solutions/20 (live at https://20.tn)
+- DarDevLab - AI-powered engineering education platform: https://dardev.net/solutions/dardevlab (live at https://dardevlab.com)
+- Hesabi - TTN El Fatoora / TEJ-compliant e-invoicing and ERP for Tunisian SMEs, Tunisia-only: https://dardev.net/solutions/hesabi (live at https://hesabi.khaledxab.com)
+- EscaHire - AI-native recruitment OS, currently in waitlist: https://dardev.net/solutions/escahire
 
 ## Important factual boundaries (do not overstate)
 
 - Hesabi is sold and supported in Tunisia only. It is not available in Morocco, Algeria, or other countries.
-- 20 is a school management platform for Tunisian educational institutions.
 - DarDev does not claim partner offices or client rosters in Sub-Saharan Africa. Lagos, Nairobi, and Cape Town are listed as outreach/business-development corridors, not existing offices or deployments.
 - DarDev's HQ and primary delivery base is Tunis, Tunisia.
 
